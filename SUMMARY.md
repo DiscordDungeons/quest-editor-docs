@@ -5,10 +5,11 @@
 ## Guides
 
 * [Creating a Quest](guides/quest-creation/index.md)
-* [Starting Out](guides/quest-creation/starting.md)
 * [Storywriting](guides/quest-creation/storywriting.md)
+* [Starting Out](guides/quest-creation/starting.md)
 * [Adding Stages](guides/quest-creation/stage.md)
 * [Stage 1](guides/quest-creation/stage-1.md)
+* [Stage 2](guides/quest-creation/stage-2.md)
 
 ## Blocks
 
