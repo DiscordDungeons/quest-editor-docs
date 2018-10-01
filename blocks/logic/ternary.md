@@ -1,6 +1,6 @@
 # Ternary Block
 
-![Ternary Block](images/ternary.jpg)
+![Ternary Block](../../images/ternary.jpg)
 
 The ternary block returns the value of `expr1` if `condition` is `true`, otherwise, it returns the value of `expr2`.
 

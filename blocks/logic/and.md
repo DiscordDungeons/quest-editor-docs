@@ -1,8 +1,8 @@
 # And/Or Block
 
-![And Block](images/and.jpg)
+![And Block](../../images/and.jpg)
 
-![Or Block](images/or.jpg)
+![Or Block](../../images/or.jpg)
 
 The and block returns true if both inputs are true.
 

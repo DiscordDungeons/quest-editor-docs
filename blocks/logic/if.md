@@ -1,6 +1,6 @@
 # If Block
 
-![If Block](images/if.jpg)
+![If Block](../../images/if.jpg)
 
 The if block executes a block of code if a specified condition is true.
 
