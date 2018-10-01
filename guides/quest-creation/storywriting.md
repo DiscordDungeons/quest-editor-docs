@@ -56,6 +56,7 @@ Julian - Hi there, I have an issue and I need some logs, would you mind getting 
 {If User Has 5 Pine Logs}
 	Julian - Thank you, now I can solve this issue!
     {Continue Check}
+        {Take 5 Oak Logs from User Inventory}
     	{End Quest}
         {Send End Quest Dialog}
 {Else}
