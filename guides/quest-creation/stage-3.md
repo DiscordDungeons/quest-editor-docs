@@ -48,10 +48,12 @@ In the second one, add a [`End Quest Block`](../../blocks/quest/end_quest.md).
 
 In the last one, add a [`End Quest Dialog Block`](../../blocks/quest/end_quest_dialog.md).
 
+After this is done, drag a [`User Inventory Block`](../../blocks/quest/user_inventory.md) and attach it right under the `Has Item` block.
+
 ![Stage 3 Completed](./images/stage-3-complete.jpg)
 
 #### Completed
 
 Alright! We've completed the quest!
 
-Next up, you can write your own quest and build it yourself!
+Next up, you can write your own quest and build it yourself, then submit it to Mackan!

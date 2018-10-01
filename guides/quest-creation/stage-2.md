@@ -48,6 +48,8 @@ In the second one, add a [`Update Quest Block`](../../blocks/quest/update_quest.
 
 In the last one, add a [`Switch Stage Block`](../../blocks/quest/switch_stage.md) and set the `Next Stage` variable to our next stage, `3`.
 
+After this is done, drag a [`User Inventory Block`](../../blocks/quest/user_inventory.md) and attach it right under the `Has Item` block.
+
 ![Stage 2 Completed](./images/stage-2-complete.jpg)
 
 #### Completed
