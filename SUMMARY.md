@@ -1,6 +1,14 @@
 # Table of contents
 
-* [quest-editor-docs](README.md)
+* [Docs Home](README.md)
+
+## Guides
+
+* [Creating a Quest](guides/quest-creation/index.md)
+* [Starting Out](guides/quest-creation/starting.md)
+* [Storywriting](guides/quest-creation/storywriting.md)
+* [Adding Stages](guides/quest-creation/stage.md)
+* [Stage 1](guides/quest-creation/stage-1.md)
 
 ## Blocks
 
@@ -39,3 +47,5 @@
 * [Switch Stage Block](blocks/quest/switch_stage.md)
 * [Update Quest Block](blocks/quest/update_quest.md)
 * [End Quest Block](blocks/quest/end_quest.md)
+* [Start Quest Block](blocks/quest/start_quest.md)
+* [Send Message Block](blocks/quest/send_message.md)
