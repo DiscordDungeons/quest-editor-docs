@@ -13,4 +13,4 @@ The block returns a promise with the zero-indexed item number in the list the us
 | Dialog Text | The Text the NPC should be saying    | Text  |       |
 | Options     | The options the user can choose from | List  |       |
 
-This block is compatible with the [Promise Block](promise)
+This block is compatible with the [Promise Block](./promise.md)
