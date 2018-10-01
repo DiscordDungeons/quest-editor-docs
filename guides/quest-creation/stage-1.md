@@ -54,11 +54,11 @@ When we've done this, we need to drag the list block with the options filled in 
 
 Next, drag a [`Promise Block`](../../blocks/quest/promise.md) from the `Quest` tab into the workspace and attach it to the `Option Dialog` block.
 
-![A](./images/quest-block-with-promise.jpg)
+![Stage 1 outline](./images/quest-block-with-promise.jpg)
 
 Then, change the `returns` to `option`
 
-![B](./images/promise-option.jpg)
+![Returns Option](./images/promise-option.jpg)
 
 Next up, drag an [`if block`](../../blocks/logic/if.md) from the `Logic` tab and an [`Option Block`](../../blocks/quest/option.md) from the `Quest` tab into the workspace.
 
@@ -66,11 +66,11 @@ Set the `option` variable of the `Option` block to `0`.
 
 Attach the `Option` block to the `if` statement of the `if` block and attach the `if` block to the inside of the `Promise` block we created earlier.
 
-![C](./images/promise-option-0.jpg)
+![Promise with if block](./images/promise-option-0.jpg)
 
 When this is done, drag a [`Dialog Block`](../../blocks/quest/dialog.md) from the `Quest` tab and attach it to the `do` variable of the `if` block and then set the `Dialog Text` to `I see, maybe I can find someone else to help me.`
 
-![D](./images/promise-with-dialog-0.jpg)
+![Promise with Dialog](./images/promise-with-dialog-0.jpg)
 
 #### Second option
 
@@ -78,11 +78,11 @@ Alright, now that we have the first option done, the second one should be pretty
 
 Click the cogwheel of the `if` block and drag an `else if` block from the gray area and attach it to the `if` block and then close it by clicking the cogwheel again.
 
-![E](./images/else-if.jpg)
+![Else if configuration](./images/else-if.jpg)
 
 Then, attach another `Option` block to the `else if` variable, setting the `option` to `1`.
 
-![F](./images/else-if-option.jpg)
+![Else if with Option](./images/else-if-option.jpg)
 
 Now drag a dialog block from the `Quest` tab and attach it to the `do` of the `else if` section of the `if` block, setting the `Dialog Text` to `Great! I need 5 Oak Logs!`.
 
@@ -90,7 +90,7 @@ After this, attach a `Promise` block to the `Dialog` block and set the `returns`
 
 Then, drag a [`Continue Check Block`](../../blocks/quest/continuecheck.md) from the `Quest` tab and attach it to the inside of the `Promise` block.
 
-![G](./images/promise-continue-check.jpg)
+![Dialog with a proimise and a continue check block](./images/promise-continue-check.jpg)
 
 #### Almost done
 
@@ -100,7 +100,7 @@ In the first one, add a [`Start Quest Block`](../../blocks/quest/start_quest.md)
 
 In the second one, add a [`Send Message Block`](../../blocks/quest/send_message.md) from the `Quest` tab and set the `Message` variable to `` `Quest Started: ${this.name}.\n[Written by Username]` ``, replacing `Username` with your Discord Username and Discriminator (The Four numbers at the end of your name), which in my case is `Mackan#7196`
 
-![H](./images/stage-1-complete.jpg)
+![Completed First Stage](./images/stage-1-complete.jpg)
 
 #### Completed
 
