@@ -43,7 +43,23 @@ Julian - Hi there, I have an issue and I need some logs, would you mind getting 
 == Stage 2 ==
 
 {If User Has 5 Oak Logs}
-	Julian - Just what I needed, thank you! I do need 
+	Julian - Just what I needed, thank you! I need some pine logs too, do you mind getting those for me too?
+    {Continue Check}
+    	{Take 5 Oak Logs from User Inventory}
+    	{Update Quest with Text "Get 5 pine logs"}
+        {Switch to Stage 3}
 {Else}
-	Julian - Have you gotten the logs yet?
+	Julian - Have you gotten the oak logs yet?
+    
+== Stage 3 ==
+
+{If User Has 5 Pine Logs}
+	Julian - Thank you, now I can solve this issue!
+    {Continue Check}
+    	{End Quest}
+        {Send End Quest Dialog}
+{Else}
+	Julian - Have you gotten the pine logs yet?
 ```
+
+Now that we have written the quest, let's go ahead and build it.

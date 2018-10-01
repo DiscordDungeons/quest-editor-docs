@@ -56,7 +56,7 @@ Usually, this is the quest name without spaces, so in our case it would be `MyFi
 
 #### Stages
 
-The stages variable is the amount of stages the quest has, this is determined by the amount of stage blocks you have in your quest, more info on this later, for now, set it to 3.
+The stages variable is the amount of stages the quest has, this is determined by the amount of stage blocks you have in your quest, more info later, but as we have 3 stages in our written quest, let's set it to 3.
 
 ___
 
