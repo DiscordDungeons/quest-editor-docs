@@ -16,7 +16,7 @@ input1 == input2;
 
 # Not Equals Block
 
-![Not Equals Block](../../images/notequals.jpg)
+![Not Equals Block](../../images/notequal.jpg)
 
 The not equals block returns true if both inputs aren't equal.
 
