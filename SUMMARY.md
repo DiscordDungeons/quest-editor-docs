@@ -52,3 +52,4 @@
 * [Start Quest Block](blocks/quest/start_quest.md)
 * [Send Message Block](blocks/quest/send_message.md)
 * [User Inventory Block](blocks/quest/user_inventory.md)
+* [NPC Block](blocks/quest/npc.md)
