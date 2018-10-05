@@ -53,3 +53,13 @@
 * [Send Message Block](blocks/quest/send_message.md)
 * [User Inventory Block](blocks/quest/user_inventory.md)
 * [NPC Block](blocks/quest/npc.md)
+
+## Item Blocks
+
+* [Dummy Item Block](blocks/item/item_dummy.md)
+* [Weapon Item Block](blocks/item/item_weapon.md)
+* [Healing Item Block](blocks/item/item_healing.md)
+* [Helmet Item Block](blocks/item/item_helmet.md)
+* [Chestplate Item Block](blocks/item/item_chestplate.md)
+* [Boots Item Block](blocks/item/item_boots.md)
+* [Ring Item Block](blocks/item/item_ring.md)
