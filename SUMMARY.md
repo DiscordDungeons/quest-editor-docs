@@ -5,12 +5,14 @@
 ## Guides
 
 * [Creating a Quest](guides/quest-creation/index.md)
-    * [Storywriting](guides/quest-creation/storywriting.md)
-    * [Starting Out](guides/quest-creation/starting.md)
-    * [Adding Stages](guides/quest-creation/stage.md)
-    * [Stage 1](guides/quest-creation/stage-1.md)
-    * [Stage 2](guides/quest-creation/stage-2.md)
-    * [Stage 3](guides/quest-creation/stage-3.md)
+	* [Storywriting](guides/quest-creation/storywriting.md)
+	* [Starting Out](guides/quest-creation/starting.md)
+	* [Adding Stages](guides/quest-creation/stage.md)
+	* [Stage 1](guides/quest-creation/stage-1.md)
+	* [Stage 2](guides/quest-creation/stage-2.md)
+	* [Stage 3](guides/quest-creation/stage-3.md)
+
+* [Creating an Enemy](guides/enemy-creation/index.md)
 
 ----
 
@@ -55,6 +57,9 @@
 * [Send Message Block](blocks/quest/send_message.md)
 * [User Inventory Block](blocks/quest/user_inventory.md)
 * [NPC Block](blocks/quest/npc.md)
+* [Set Adventure Block](blocks/quest/set_adventure.md)
+* [Remove Adventure Block](blocks/quest/remove_adventure.md)
+* [New Adventure Class Block](blocks/quest/new_adventure.md)
 
 ## Item Blocks
 
@@ -65,3 +70,11 @@
 * [Chestplate Item Block](blocks/items/item_chestplate.md)
 * [Boots Item Block](blocks/items/item_boots.md)
 * [Ring Item Block](blocks/items/item_ring.md)
+
+## Import Blocks
+
+* [Import Adventure Block](blocks/imports/import_adventure.md)
+
+## Enemy Blocks
+
+* [New Enemy Block](blocks/enemies/new_enemy.md)
