@@ -27,7 +27,7 @@ Let's add the enemy itself.
 
 To do this, drag a [`New Enemy Block`](../../blocks/enemies/new_enemy.md) and attach it to the `Set adventure` block.
 
-![Set adventure block with enemy](./images/set-adventure-with-enemy)
+![Set adventure block with enemy](./images/set-adventure-with-enemy.jpg)
 
 Refering to the documentation of the enemy block, we can see that we need to fill in all the values, so for this guide, let's say our enemy is level 10, has 1000 HP, does 5 to 10 damage and is named `Scary Monster`.
 
