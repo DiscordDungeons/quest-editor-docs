@@ -11,6 +11,7 @@
 	* [Stage 1](guides/quest-creation/stage-1.md)
 	* [Stage 2](guides/quest-creation/stage-2.md)
 	* [Stage 3](guides/quest-creation/stage-3.md)
+
 * [Creating an Enemy](guides/enemy-creation/index.md)
 
 ----
