@@ -39,6 +39,10 @@
 * [Edit In List Block](blocks/lists/edit_in_list.md)
 * [Split String Block](blocks/lists/split_string.md)
 
+## Text Blocks
+
+* [Text Block](blocks/text/text.md)
+
 ## Quest Blocks
 
 * [Quest Block](blocks/quest/quest.md)
@@ -78,3 +82,9 @@
 ## Enemy Blocks
 
 * [New Enemy Block](blocks/enemies/new_enemy.md)
+
+## Locations Blocks
+
+* [New Location Block](blocks/locations/new_location.md)
+* [Search Data Block](blocks/locations/searchdata.md)
+* [Travel Data Block](blocks/locations/traveldata.md)
