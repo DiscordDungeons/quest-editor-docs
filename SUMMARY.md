@@ -13,6 +13,8 @@
 	* [Stage 3](guides/quest-creation/stage-3.md)
 
 * [Creating an Enemy](guides/enemy-creation/index.md)
+* [Creating a Location](guides/location-creation/index.md)
+	* [Creation](guides/location-creation/creation.md)
 
 ----
 
